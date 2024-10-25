@@ -7,11 +7,11 @@ vencedor=0
 
 
 def collatz_even(n):
-    n=(n/2)
+    n = (n / 2)
     return n
 
 def collatz_odd(n):
-    n=(3*n+1)
+    n = (3 * n + 1)
     return n
 
 def collatz(num):
@@ -32,13 +32,13 @@ t0=time.time()
 for i in range(1,1000000+1):
     termos=collatz(i)
     #print("collatz de {} é {}".format(i,termos+1))
-    if termos>maior:
-        maior=termos
-        vencedor=i
+    if termos > maior:
+        maior = termos
+        vencedor = i
 
 
-t1=time.time()
-tp=t1-t0
+t1 = time.time()
+tp = t1 - t0
 
 
 print("{} segundos".format(tp))
