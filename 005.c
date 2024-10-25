@@ -4,8 +4,6 @@ the numbers from 1 to 20*/
 
 #include <stdio.h>
 
-int isprime(int n);
-
 int main (void)
 {
 	long long num = 1;
@@ -21,7 +19,10 @@ int main (void)
 		while (i <= limite)
 		{
 			if (num % i != 0)
+			{
 				r = 1;
+				break;
+			}
 			i++;
 		}
 		num++;
