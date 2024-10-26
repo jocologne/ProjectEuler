@@ -1,6 +1,7 @@
 limite=2000000
 primos=[]
 
+#Inicializa todos os numeros até limite como True.
 numeros = [True] * limite
 numeros[0]=False
 numeros[1]=False
