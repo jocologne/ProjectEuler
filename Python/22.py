@@ -25,7 +25,7 @@ dict = {"A":1,
         "Y":25,
         "Z":26,}
 
-f = open('names.txt')
+f = open('files/names.txt')
 
 for line in f.readlines():
     linha = line.replace('\n', '')
