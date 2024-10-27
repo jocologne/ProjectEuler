@@ -13,10 +13,10 @@ int main(void)
 	int i = 100;
 	int j;
 	int limite = 1000;
-	while (i < 1000)
+	while (i < limite)
 	{
 		j = i;
-		while (j < 1000)
+		while (j < limite)
 		{
 			if (is_palindrome(i * j) && (i * j) > result)
 				result = i * j;
