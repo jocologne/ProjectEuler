@@ -1,3 +1,6 @@
+#Problem 7
+#What is the 10001st prime number
+
 import time
 
 t0 = time.time()
