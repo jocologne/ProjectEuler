@@ -1,3 +1,6 @@
+#Ainda não esta completo, o array abundantes contem todos os numeros
+#abundantes até 30000. 
+
 def divisores(n):
     div = []
     limite = round((n/2)+1)
