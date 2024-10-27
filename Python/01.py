@@ -1,6 +1,5 @@
 #Problema 01
-
-import time
+#Find the sum of all the multiples of 3 and 5 below 1000
 
 soma = 0
 limite = 1000
