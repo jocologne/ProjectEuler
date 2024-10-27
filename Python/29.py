@@ -6,5 +6,4 @@ arr = []
 for i in range (2, limite + 1):
 	for j in range (2, limite + 1):
 		arr.append(i**j)
-arr.sort()
 print(len(set(arr)))
