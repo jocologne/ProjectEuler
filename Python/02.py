@@ -1,5 +1,5 @@
 #Problema 02
-#find the sum of the even-valued terms in Fibonacci sequence below 4000000
+#Find the sum of the even-valued terms in Fibonacci sequence below 4000000
 
 soma = 0
 
