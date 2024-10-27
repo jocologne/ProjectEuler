@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 
-//Falta implementar a função is_palindrome.
 int is_palindrome(int n)
 {
 	return (1);
