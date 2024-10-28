@@ -8,7 +8,7 @@ def soma_quinta(n):
     if soma == n:
         numeros.append(n)
 
-for i in range(2,1000000):
+for i in range(2,200000):
     soma_quinta(i)
 
 resultado = 0
