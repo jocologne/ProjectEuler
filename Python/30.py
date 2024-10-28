@@ -1,3 +1,7 @@
+#Problem 30
+#Find the sum of all the numbers that can be written as the sum of fifth 
+#powers of their digits.
+
 numeros=[]
 
 def soma_quinta(n):
