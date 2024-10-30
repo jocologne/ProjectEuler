@@ -15,10 +15,11 @@ int main(void)
 		if (isprime(n))
 		{
 			sum += n;
-			printf("%lld\n", sum);
+			printf("%d\n", n);
 		}
 		n++;
 	}
+	printf("%lld\n", sum);
 }
 
 int isprime(int n)
