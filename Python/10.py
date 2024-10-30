@@ -15,7 +15,7 @@ for i in range (0,len(numeros)):
 
 #Crivo de Eratóstenes marca como false todos os multiplos de i
 
-resultado=0
+resultado = 0
 for p in primos:
     resultado += p
 
