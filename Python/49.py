@@ -14,3 +14,4 @@ for i in range (1000, 10000):
 
 #Array prime com todos os primos de 4 digitos.
 print(prime)
+print(len(prime))
