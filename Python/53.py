@@ -11,14 +11,14 @@ def comb(n, r):
 
 lim = 100
 i = 1
-g = 0
+res = 0
 
 while (i <= lim):
 	j = 1
 	while (j <= lim):
 		if comb(i , j) > 1000000:
-			g += 1
+			res += 1
 		j += 1
 	i += 1
 
-print(g)
+print(res)
