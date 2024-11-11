@@ -22,5 +22,3 @@ while (i <= lim):
 	i += 1
 
 print(res)
-
-print(100**100)
