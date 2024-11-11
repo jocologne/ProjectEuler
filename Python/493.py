@@ -19,13 +19,18 @@ def sorteio():
 	#print(sorteadas)
 	return len(set(sorteadas))
 
-sum = 0
-n = 0
-while (n < 80000):
+sum = sorteio()
+n = 1
+while (sum / n != 6.8187478020):
 	sum += sorteio()
 	n += 1
-
-print(sum / n)
+	print(sum / n)
 
 #O programa simula um numero grande de sorteios e retorna a media de cores
 #distintas encontradas, a resposta se aproxima da solução mas não é exata.
+
+result = 1
+for i in range(20):
+   result *= (60-i)/(70.0-i)
+result = 7*(1-result)
+print(result)
