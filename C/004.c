@@ -4,6 +4,7 @@
 
 int is_palindrome(int n)
 {
+	//Implementar funcao is_palindrome.
 	return (1);
 }
 
