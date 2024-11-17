@@ -16,5 +16,5 @@ int main (void)
 			result += n;
 		n++;
 	}
-	printf("RESULT=%d", result);
+	printf("RESULT=%d\n", result);
 }

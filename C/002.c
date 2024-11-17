@@ -20,5 +20,5 @@ int main (void)
 		b = (a + b);
 		a = temp; 
 	}
-	printf("RESULT= %i", result);
+	printf("RESULT= %i\n", result);
 }
