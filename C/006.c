@@ -23,5 +23,5 @@ int main(void)
 		i++;
 	}
 	long long result = (sum * sum) - sumofsquares;
-	printf("%lld", result);
+	printf("%lld\n", result);
 }

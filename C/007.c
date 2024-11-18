@@ -16,7 +16,7 @@ int main(void)
 		if (isprime(num))
 			count++;
 	}
-	printf("%d", num);
+	printf("%d\n", num);
 }
 
 int isprime(int n)

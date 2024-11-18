@@ -8,7 +8,7 @@ while numero > 1:
 
 #print(fatorial)
 
-#Recebe um numero num e retrona uma lista tr com cada digito separado.
+#Recebe um numero num e retorna uma lista tr com cada digito separado.
 def divide_numero(num):
     tr = []
     for i in str(num):
