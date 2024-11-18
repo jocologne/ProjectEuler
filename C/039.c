@@ -5,7 +5,7 @@
 int m_sqrt(int n)
 {
 	int i = 1;
-	while (i < n)
+	while (i * i <= n)
 	{
 		if (i * i == n)
 			return i;
@@ -17,7 +17,7 @@ int m_sqrt(int n)
 int hip(int a, int b)
 {
 	int resp = (a * a) + (b * b);
-	resp = m_sqrt(resp);
+	return (m_sqrt(resp));
 }
 
 int main(void)
@@ -27,10 +27,10 @@ int main(void)
 	int a = 1;
 	int c;
 	int per;
-	int *arr = (int*) calloc(1000, sizeof(int));
+	int *arr = (int*) calloc(n, sizeof(int));
 	while (a < lim)
 	{
-		int b = 1;
+		int b = a;
 		while (b < lim)
 		{
 			c = hip(a, b);
@@ -38,7 +38,7 @@ int main(void)
 			{
 				printf("%d_%d_%d\n", a, b, c);
 				per = (a + b + c);
-				if (per < 1000)
+				if (per < n)
 					arr[per]++;
 			}
 			b++;
@@ -57,5 +57,7 @@ int main(void)
 		}
 		i++;
 	}
-	printf("%d\n", resp);
+	printf("Perimetro %d aparece %d vezes.\n", resp, max);
+	free(arr);
+	return 0;
 }
