@@ -22,3 +22,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [21](https://projecteuler.net/problem=21) 	| Soma dos números amigáveis até 10000								| Python					|
 | [22](https://projecteuler.net/problem=22) 	| Total dos valores de todos os nomes na lista					| Python					|
 | [25](https://projecteuler.net/problem=25) 	| Primeiro número de fibonacci com 1000 dígitos					| Python, JS			|
+| [29](https://projecteuler.net/problem=29) 	| Termos distintos de uma sequência de potências				| Python					|
