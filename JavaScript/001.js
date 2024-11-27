@@ -1,11 +1,11 @@
-let n = 3
-let res = 0 
+let n = 3;
+let res = 0; 
 while (n < 1000)
 {
 	if (n % 3 == 0 || n % 5 == 0)
 	{
-		res = res + n
+		res = res + n;
 	}
-	n++
+	n++;
 }
-console.log(res)
+console.log(res);
