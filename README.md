@@ -11,4 +11,5 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [5](https://projecteuler.net/problem=5) 	| Menor múltiplo dos números de 1 a 20								| Python, C				     		|
 | [6](https://projecteuler.net/problem=6) 	| Diferença entre a soma dos quadrados e o quadrado da soma	| Python, C				     		|
 | [7](https://projecteuler.net/problem=7) 	| O 10.001º Número Primo												| Python, C, JavaScript			|
+| [8](https://projecteuler.net/problem=8) 	| Maior produto de digitos consecutivos							| Python, JavaScript				|
 | [10](https://projecteuler.net/problem=10)	| Soma dos primos abaixo de 2 milhões								| Python, C           			|
