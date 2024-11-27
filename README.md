@@ -28,3 +28,7 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [39](https://projecteuler.net/problem=39) 	| Perímetro das triplas pitagóricas										| C						|
 | [40](https://projecteuler.net/problem=40) 	| Dígitos de Champernowne													| Python					|
 | [48](https://projecteuler.net/problem=48) 	| Soma dos números que são iguais à soma de suas potências		| Python					|
+| [52](https://projecteuler.net/problem=52) 	| Permutação dos dígitos dos múltiplos de um número				| Python					|
+| [53](https://projecteuler.net/problem=53) 	| Seleção de combinações													| Python					|
+| [59](https://projecteuler.net/problem=59) 	| Decriptação XOR																| Python					|
+| [92](https://projecteuler.net/problem=92) 	| Cadeias de somas dos quadrados dos dígitos							| Python					|
