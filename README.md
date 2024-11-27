@@ -26,3 +26,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [30](https://projecteuler.net/problem=30) 	| Números que são iguais a soma das potências dos seus dígitos	| Python, JS			|
 | [34](https://projecteuler.net/problem=34) 	| Números que são iguais a soma dos fatoriais dos seus dígitos	| Python					|
 | [39](https://projecteuler.net/problem=39) 	| Perímetro das triplas pitagóricas										| C						|
+| [40](https://projecteuler.net/problem=40) 	| Dígitos de Champernowne										| C						|
