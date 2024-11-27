@@ -1,6 +1,5 @@
 let a = 1
 let b = 2
-let n = 2
 let temp = 0
 resp = b
 while (b < 4000000)
@@ -12,6 +11,5 @@ while (b < 4000000)
 	{
 		resp += b
 	}
-	n++
 }
 console.log(resp)
