@@ -17,4 +17,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [12](https://projecteuler.net/problem=12) 	| Número triangular com mais divisores								| Python					|
 | [13](https://projecteuler.net/problem=13) 	| Soma dos 100 números de 50 digitos								| Python					|
 | [14](https://projecteuler.net/problem=14) 	| Maior sequência de Collatz para n até 1.000.000				| Python					|
-| [16](https://projecteuler.net/problem=16) 	| Soma dos Dígitos de 2^1000											| Python					|
+| [16](https://projecteuler.net/problem=16) 	| Soma dos dígitos de 2^1000											| Python					|
