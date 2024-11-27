@@ -32,3 +32,5 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [53](https://projecteuler.net/problem=53) 	| Seleção de combinações													| Python					|
 | [59](https://projecteuler.net/problem=59) 	| Decriptação XOR																| Python					|
 | [92](https://projecteuler.net/problem=92) 	| Cadeias de somas dos quadrados dos dígitos							| Python					|
+| [102](https://projecteuler.net/problem=102)| Triângulos que contêm a origem no plano cartesiano				| Python					|
+| [493](https://projecteuler.net/problem=493)| Sorteio aleatório (simulação de Monte Carlo)						| Python					|

@@ -29,3 +29,4 @@ print(sum / n)
 
 #O programa simula um numero grande de sorteios e retorna a media de cores
 #distintas encontradas, a resposta se aproxima da solução mas não é exata.
+
