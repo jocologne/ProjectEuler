@@ -2,7 +2,6 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 
 ## 🚀 Problemas Resolvidos
 
-<small>
 | Problema | Descrição                          				  | Linguagem Utilizada |
 |----------|--------------------------------------------------|---------------------|
 | [1](https://projecteuler.net/problem=1)		| Soma dos múltiplos de 3 e 5												| Python, C, Go, JS	|
@@ -35,5 +34,3 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [92](https://projecteuler.net/problem=92) 	| Cadeias de somas dos quadrados dos dígitos							| Python					|
 | [102](https://projecteuler.net/problem=102)| Triângulos que contêm a origem no plano cartesiano				| Python					|
 | [493](https://projecteuler.net/problem=493)| Sorteio aleatório (simulação de Monte Carlo)						| Python					|
-
-</small>
