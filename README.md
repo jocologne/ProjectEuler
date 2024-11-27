@@ -4,7 +4,7 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 
 | Problema | Descrição                          				  | Linguagem Utilizada |
 |----------|--------------------------------------------------|---------------------|
-| [1](https://projecteuler.net/problem=1)		| Soma dos múltiplos de 3 e 5												| Python, C, Go, JS	|
+| [1](https://projecteuler.net/problem=1)		| Soma dos múltiplos de 3 e 5												| [Python](Python/01.py), C, Go, JS	|
 | [2](https://projecteuler.net/problem=2) 	| Soma dos números de Fibonacci pares									| Python, C, Go, JS	|
 | [3](https://projecteuler.net/problem=3) 	| Maior fator primo															| Python, C, JS      |
 | [4](https://projecteuler.net/problem=4) 	| Maior produto palindromo 												| Python, C	     		|
@@ -34,3 +34,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [92](https://projecteuler.net/problem=92) 	| Cadeias de somas dos quadrados dos dígitos							| Python					|
 | [102](https://projecteuler.net/problem=102)| Triângulos que contêm a origem no plano cartesiano				| Python					|
 | [493](https://projecteuler.net/problem=493)| Sorteio aleatório (simulação de Monte Carlo)						| Python					|
+
