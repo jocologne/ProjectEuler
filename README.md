@@ -2,8 +2,8 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 
 ## 🚀 Problemas Resolvidos
 
-| Problema | Descrição                         				  | Linguagem Utilizada |
-|----------|-----------------------------------------------|---------------------|
+| Problema | Descrição                          				  | Linguagem Utilizada |
+|----------|--------------------------------------------------|---------------------|
 | [1](https://projecteuler.net/problem=1)		| Soma dos múltiplos de 3 e 5												| Python, C, Go, JS	|
 | [2](https://projecteuler.net/problem=2) 	| Soma dos números de Fibonacci pares									| Python, C, Go, JS	|
 | [3](https://projecteuler.net/problem=3) 	| Maior fator primo															| Python, C, JS      |
