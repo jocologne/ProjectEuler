@@ -20,3 +20,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [16](https://projecteuler.net/problem=16) 	| Soma dos dígitos de 2^1000											| Python					|
 | [20](https://projecteuler.net/problem=20) 	| Soma dos dígitos de 100!												| Python					|
 | [21](https://projecteuler.net/problem=21) 	| Soma dos números amigáveis até 10000								| Python					|
+| [22](https://projecteuler.net/problem=22) 	| Total dos valores de todos os nomes na lista					| Python					|
