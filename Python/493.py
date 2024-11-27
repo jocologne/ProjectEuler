@@ -1,6 +1,7 @@
 
 import random
 
+# A urna contem 70 bolas, 10 de cada cor, numeradas de 1 a 7.
 urna = [1,1,1,1,1,1,1,1,1,1,
 		  2,2,2,2,2,2,2,2,2,2,
 		  3,3,3,3,3,3,3,3,3,3,
@@ -9,6 +10,7 @@ urna = [1,1,1,1,1,1,1,1,1,1,
 		  6,6,6,6,6,6,6,6,6,6,
 		  7,7,7,7,7,7,7,7,7,7]
 
+# Função que simula um sorteio de 20 bolas da urna e retorna o numero de cores
 def sorteio():
 	urna2 = list(urna)
 	sorteadas = []
@@ -21,7 +23,7 @@ def sorteio():
 
 sum = 0
 n = 0
-while (n < 80000):
+while (n < 100000):
 	sum += sorteio()
 	n += 1
 
