@@ -7,7 +7,7 @@ while (b < 4000000)
 	temp = a
 	a = b
 	b = a + temp
-	if (b % 2 ==0)
+	if (b % 2 == 0)
 	{
 		resp += b
 	}
