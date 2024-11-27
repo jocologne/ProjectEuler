@@ -19,3 +19,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [14](https://projecteuler.net/problem=14) 	| Maior sequência de Collatz para n até 1.000.000				| Python					|
 | [16](https://projecteuler.net/problem=16) 	| Soma dos dígitos de 2^1000											| Python					|
 | [20](https://projecteuler.net/problem=20) 	| Soma dos dígitos de 100!												| Python					|
+| [21](https://projecteuler.net/problem=21) 	| Soma dos números amigáveis até 10000								| Python					|
