@@ -23,3 +23,4 @@ Este repositório contém soluções para alguns dos problemas do [Project Euler
 | [22](https://projecteuler.net/problem=22) 	| Total dos valores de todos os nomes na lista					| Python					|
 | [25](https://projecteuler.net/problem=25) 	| Primeiro número de fibonacci com 1000 dígitos					| Python, JS			|
 | [29](https://projecteuler.net/problem=29) 	| Termos distintos de uma sequência de potências				| Python					|
+| [30](https://projecteuler.net/problem=30) 	| Números que são a soma da potência dos seus dígitos			| Python					|
