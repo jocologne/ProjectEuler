@@ -10,7 +10,7 @@ for i in range (0,len(DT),50):
 
 #print(numeros)
 
-soma=0
+soma = 0
 
 for numero in numeros:
     soma += int(numero)
