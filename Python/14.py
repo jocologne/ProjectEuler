@@ -17,7 +17,6 @@ def collatz_odd(n):
 def collatz(num):
     count = 0
     while num != 1:
-
         #print(int(num))
         if num % 2 == 0:
             num = collatz_even(num)
@@ -31,7 +30,7 @@ t0=time.time()
 
 for i in range(1,1000000+1):
     termos=collatz(i)
-    #print("collatz de {} é {}".format(i,termos+1))
+    print("collatz de {} é {}".format(i,termos+1))
     if termos > maior:
         maior = termos
         vencedor = i

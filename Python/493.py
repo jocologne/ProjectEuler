@@ -23,7 +23,7 @@ def sorteio():
 
 sum = 0
 n = 0
-while (n < 100000):
+while (n < 500000):
 	sum += sorteio()
 	n += 1
 
